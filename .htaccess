@@ -1,0 +1,5 @@
+Options +FollowSymlinks
+RewriteEngine on
+
+##Convert all php files into html files
+RewriteRule ^(.*)\.html$ $1.php [L]
