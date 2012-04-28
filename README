@@ -1,0 +1,13 @@
+**Source Code of My HomeSite**
+
+This is the source code of my [Home Page](http://adnansiddiqi.com). I'm releasing it with hope that it could be useful for those developers who struggle to come up with their own profile page. The content of the site is controlled by a YAML file so there's no need to get into HTML file for sake of changing content.
+
+The source is released under **MIT Licenses**.
+
+### TODO
+* Currently it does not support any version of IE. I am redirecting it to [noie](http://adnansiddiqi.com/noie.html).
+* META tags and page title is not YAML controlled.
+
+That's it for now. More information about this project will be updated soon.
+
+Enjoy!
