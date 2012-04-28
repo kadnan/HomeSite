@@ -1,0 +1,176 @@
+--- |
+home:
+  title : Welcome My Friend
+  descripion : MySite Des
+  keywords : MySite Keywords
+  
+about: |
+  Hi, my name Adnan Siddiqi and I am from Karachi, Pakistan. I'm a computer engineer by profession and a graduate of [SSUET](http://www.ssuet.edu.pk/). I have worked as a web developer in different organizations. Currently I'm working as a **Head of Business Applications** at [ANT Technologies](http://www.anttechnologies.com/), a joint venture of the [gang](http://pk.linkedin.com/in/syedasharnisar) [of](http://www.linkedin.com/in/tghizal) [three](http://www.linkedin.com/in/kadnan). Beside that I can also provid you consultancy in software development, product development, social media integration, generating new business models/ideas or even to write your next blog post or listening your problem :-)
+
+  Usually I'm quite a friendly and caring person but on the other hand I'm not comfortable with those who try to be smart while they're not. I'm quite an outspoken person and usually hypocrisy of others irritates me. I have a strong penchant for supporting and representing underdogs wherever I can. I am an [INFP](http://www.mypersonality.info/asiddiqi/). Being an introvert is one of the key factors that keeps me away from various things that appear to be useless.
+
+  Alhamdolillah I'm happily married and have a 2 years old son named *Maaz*. MashaAllah he's quite funny, intelligent and more tech savvy than his father. He actually taught me how to use _player keys_ on keyboard to rewind or forward a Youtube video. My wife is one of my mentors and most of the time her tips and suggestions benefited me on different occasions.
+
+  I love to read and read lots of things; be it a book, an online article or anything. I occasionally share my rants on my [blog](http://kadnan.com/blog) on different topics. I also maintain a [technical blog](http://kadnan.blogspot.com) where I often share things I experience or read.
+
+projects:
+  title:
+    - Revamping Home Page
+    - Twerrific Lite
+    - G-
+    - SnapMarks
+    - Zakat App for Human Appeal
+    - Quran bot on Twitter
+    - MySQL to JSON
+    - Saladicious
+
+  desc:
+    - Upgrading and revamping this website by using some new technologies and skills like jQuery,CSS3, Typography.
+    - A sweet and little WordPress plugin that allows you to link any twitter ID along with the URL of the Twitter profile. Visit the plugin link for more details.
+    - Remove Google Plus Notification from all google sites. It can be installed from [here](http://userscripts.org/scripts/show/112365).
+    - Snapmarks provides you a quick and easy to use interface to bookmark the page youre reading. Its all about taking the snap of the page you are reading, drag the bookmark Icon and save it. You can know further by visiting [app page](http://sm.sidlabs.com).
+    - An iPhone based Zakat Calculator that helps you to calculate yearly Zakat. It also helps you to know whether you are eligible for paying Zakat by giving current Zakat value in British Pound as well as basic information about Zakat. Checkout further at:<http://humanappeal.org.uk/zakat/app/>
+    - A twitter based client that let you recieve a daily tweet of a random verse(Ayah) from the Holy Quran. It was developed by using Twitter API in PHP. Add **@thedailyquran** on your twitter to recieve daily verses.
+    - This class can be used to convert data from MySQL query results into a JavaScript expression in JavaScript Object Notation. It takes a MySQL query result handle and retrieves the query result column names and the query result data.The class generates the definition of a JavaScript object in JSON that contains an array of a rows of query result data. It was [featured](http://ajaxian.com/archives/php-based-mysql-to-json-converter) on AJAXIAN. The class is now [available](https://github.com/kadnan/MySQL2JSON) on Github.
+    - A simple iPhone app having information about different Salad Recipes. It's _deliciously_ available on [App Store](http://itunes.apple.com/in/app/saladicious/id445258818?mt=8)
+
+  date:
+    - Apr,2012
+    - Jan,2012
+    - Sept,2011
+    - Sept,2011
+    - Sept,2011
+    - Sept,2010
+    - June,2011
+    - June,2006
+    
+  type:
+    - Personal
+    - Personal
+    - Personal
+    - Personal
+    - Freelance
+    - Personal
+    - Personal
+    - For Friend
+cv:
+  title : Welcome to my CV
+  descripion : MySite Description
+  keywords : CV Keywords
+  
+  social:
+    twitter: http://twitter.com/kadnan
+    linkedin: http://pk.linkedin.com/in/kadnan
+    youtube: http://www.youtube.com/user/sidlabs
+    github: https://github.com/kadnan
+    hn: http://news.ycombinator.com/user?id=pknerd
+    rss: https://github.com/kadnan
+    forrst: https://github.com/kadnan
+    stackoverflow: http://stackoverflow.com/users/275002/volatil3
+
+  head:
+    name: Adnan Siddiqi
+    tagline: Developer and Entreprenuer
+    email: kdanan<@>gmail<.>com
+    skype: sidlabs
+    gtalk: kadnan
+  
+  skills:
+    - PHP core
+    - jQuery
+    - UI/UX Patterns
+    - Typography
+    - APIs Integration
+    - CodeIgnitor
+    - Java
+    - Coldfusion
+    - J2EE
+    - VB.NET
+    - C#
+    - Facebook Applications
+    - MySQL
+    - Oracle Administration
+    - Oracle Pl/SQL
+    - PgSQL
+    - C++ core
+    - QT Toolkit
+    
+  experience:
+    - Advanced,6 Years
+    - Intermediate,2 years
+    - Beginner,2 months
+    - Beginner,2 months
+    - Intermediate,5 months
+    - Intermediate,1 year
+    - Intermediate,3 Years
+    - Intermediate,2 Years
+    - Intermediate,3 Years
+    - Intermediate,2 Years
+    - Intermediate,3 Years
+    - Intermediate,2 months
+    - Intermediate,4 months
+    - Beginner,2 months
+    - Beginner,2 months
+    - Intermediate,2 years
+    - Intermediate,2 years
+    - Beginner,1 year
+    
+  education:
+    - BS Computer Engineering
+    - HSc Pre-Engineering
+    
+  institute:
+    - SirSyed University of Engineeing and Technology
+    - Govt.Delhi College
+    
+  affiliation:
+    - Pakistan Engineering Council
+    
+  profile:
+    - A product guy. I can help to transform your idea into reality in the form of a working product.
+    - More than 8 years of in-depth and intense experience with Internet based solutions.
+    - Good Analytical and Entrepreneurial skills which lead to find out newer ideas from existing systems and data
+    - Comprehensive understanding of both relational and NoSQL databases.
+    - Excellent communication and learning skills, professional troubleshooting skills.
+    - Highly adaptable. Continual self-learner. Enjoys working as a team member.
+    - Enjoys R&D in related field and ready to accept challenging and innovative tasks.
+    - Quite Up-to-date with latest trends in the field of Information Technology and Business.
+    - Having basic understand of social media and its implementation in an organization.
+
+  company:
+    -  ANT Technologies
+    -  TradeKey Private Ltd
+    -  TradeKey Private Ltd
+    -  Uffaq Technologies
+    -  Cybernet Internet Services
+    -  Bank Alfalah Ltd.
+    
+  designation:
+    -  Head of Business Applications
+    -  Project Lead
+    -  Senior Software Engineer
+    -  Senior Software Engineer
+    -  Application Programmer
+    -  Officer
+    
+  tenure:
+    -  Feb 2012 to Present
+    -  Jan 2009 to Dec 2011
+    -  July 2008 to Dec 2009
+    -  June 2007 to May 2008
+    -  August 2006 to May 2007
+    -  Oct 2003 to July 2005
+    
+  work:
+    -  A joint venture with my colleagues. Primarily I will be responsible to oversee applications development related process but in general will be wearing many hats.
+    -  As a lead I was responsible to take care of various aspects of projects,from finding out a solution of a problem to writing code. During this tenure I got chance to implement OpenX Ad Server solution. I was involved since the inception of the idea to deployment. Beside that I developed **TTP-TradeKey Twitter Project** which was an automation tool to tweet lead based upon niche industry. I was also the part of the team which was involved in **Category Restructuring** project. Details of the projects given in _Projects_ section.
+    -  Worked both as team player and in individual capacity to develop and enhance various front-end and back-end systems of the B2B portal. During this tenure worked as in individual to finish up **Tradeshows** and worked as a team member for the projects,**Community**,**ERP** and **CRM**.
+    -  Worked as a team member to design and develop solutions based on IBM's Filenet enterprise content management system-ECM. I developed **Data Migration Solution-DMS** in VB.NET by using FileNET
+    -  Working as team member of APD Department, Head Office. The core functions of APD department are handling billing system of ISP and design and maintenance of in-house applications of Lakson Group of Companies.
+    -  Work as team player of the Systems and Operations Division, Head Office. The core functions of the Systems and Operations Division are to design operational policies for day-to-day banking operations. Conduct research on the various technologies and computer application for their implementation. I was also involved in a few projects based on SWIFT systems and made in-house utility parsers of MT9x and MT7x based messages. Details of the projects I completed here are in _Projects_ section.
+    
+contact:
+  recipient: kadnan@gmail.com
+
+analytics:
+  account:UA-607131-1
